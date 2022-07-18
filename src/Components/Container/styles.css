@@ -1,0 +1,5 @@
+.view {
+    background-image: url('../../Assets/Images/background.png');
+    height: calc(100vh - 109px);
+    background-size: cover;
+}

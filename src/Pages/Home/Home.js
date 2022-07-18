@@ -1,9 +1,11 @@
+import Container from "../../Components/Container";
 import Navbar from "../../Components/Navbar";
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
         <Navbar />
+        <Container/>
     </div>
   );
 }
