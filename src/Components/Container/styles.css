@@ -2,4 +2,35 @@
     background-image: url('../../Assets/Images/background.png');
     height: calc(100vh - 109px);
     background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    width: 960px;
+    padding: 30px;
+    background-color: #fff;
+}
+.card .header{
+    padding: 30px;
+    padding-bottom: 20px;
+}
+
+.card h2 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    color: #FF006D;
+    text-align: center;
+    line-height: 150%;
+}
+.card h3 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 150%;
+    text-align: center;
 }
