@@ -82,5 +82,9 @@
     padding: 13px 18px;
     font-weight: 600;
     font-size: 16px;
-    color: #fff
+    color: #fff;
+}
+
+.footer a {
+    text-decoration: none;
 }

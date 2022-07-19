@@ -26,7 +26,9 @@ const Container = () => {
                 </div>
                 <div className='footer'>
                     <h3>Cadastre-se na nossa plataforma e simplifique seu jurídico!</h3>
-                    <button>Consulte nossos planos</button>
+                    <a href='#'>
+                        <button>Consulte nossos planos</button>
+                    </a>
                 </div>
             </div>
         </div>
