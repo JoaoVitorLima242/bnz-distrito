@@ -26,7 +26,7 @@ const Container = () => {
                 </div>
                 <div className='footer'>
                     <h3>Cadastre-se na nossa plataforma e simplifique seu jurídico!</h3>
-                    <a href='#'>
+                    <a href='https://www.bonuz.it/juridico-familiar/' target='_blank' rel="noreferrer">
                         <button>Consulte nossos planos</button>
                     </a>
                 </div>

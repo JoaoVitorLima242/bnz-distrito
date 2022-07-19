@@ -23,8 +23,11 @@
 .view p,
 .view ul {
     margin-bottom: 30px;
-    padding: 0 30px;
-    list-style-type: none;
+    padding: 0 20px;
+}
+
+.view ul {
+    margin: 0 30px;
 }
 
 .card {
