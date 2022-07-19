@@ -34,3 +34,15 @@
     line-height: 150%;
     text-align: center;
 }
+
+.view .footer button{
+    background: #FF006D;
+    border-radius: 8px;
+    border: none;
+    margin: 10px auto;
+    display: block;
+    padding: 13px 18px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff
+}
